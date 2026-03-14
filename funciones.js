@@ -2,11 +2,11 @@
 
 //El arreglo que se utiliza con todas las demás funciones y tiene objetos dentro
 const estudiantes = [
-  { nombre: "Ana", edad: 20, promedio: 9.2, activo: true },
-  { nombre: "Luis", edad: 22, promedio: 7.5, activo: false },
-  { nombre: "Carlos", edad: 19, promedio: 8.8, activo: true },
-  { nombre: "María", edad: 21, promedio: 9.5, activo: true },
-  { nombre: "Elena", edad: 23, promedio: 6.9, activo: false }
+  { nombre: "Sophi", edad: 20, promedio: 9.2, activo: true },
+  { nombre: "Pablo", edad: 22, promedio: 7.5, activo: false },
+  { nombre: "Imanol", edad: 20, promedio: 5.4, activo: true },
+  { nombre: "Majo", edad: 19, promedio: 9.5, activo: true },
+  { nombre: "Sam", edad: 19, promedio: 6.5, activo: true }
 ];
 
 //For each para mostrar el nombre y el promedio de cada uno de los objetos (Estudiantes) en mi arreglo
